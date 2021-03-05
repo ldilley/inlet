@@ -1,2 +1,2 @@
-# inlet
+# Inlet
 A remote access service
